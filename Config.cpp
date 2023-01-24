@@ -6,7 +6,7 @@ class CfgPatches {
 		weapons[] = {};
 		requiredAddons[] = {};
 		version = "1.0.0";
-		author[]= {"Various Artists"};
+		author[] = {"Various Artists"};
 		authorUrl = "";
 	};
 
@@ -129,7 +129,7 @@ class CfgUnitInsignia
 	
 	class wgw_japari_sugoi_friends
 	{
-		displayName = "WGW Japai Sugoi Friends";
+		displayName = "WGW Japari Sugoi Friends";
 		author = "";
 		texture = "\big_patch_mod\icon\wgw_japari_sugoi_friends.paa";
 		textureVehicle = "";

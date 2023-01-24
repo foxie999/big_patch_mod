@@ -2,11 +2,11 @@ class CfgPatches {
 
 	class big_patch_mod
 	{
-		units = {};
-		weapons = {};
-		requiredAddons = {};
+		units[] = {};
+		weapons[] = {};
+		requiredAddons[] = {};
 		version = "1.0.0";
-		author = {"Various Artists"};
+		author[] = {"Various Artists"};
 		authorUrl = "";
 	};
 
