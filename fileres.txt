@@ -1,2 +1,4 @@
 512x512
+png
+make sure your file is VALID
 -foxy
