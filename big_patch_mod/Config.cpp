@@ -142,4 +142,60 @@ class CfgUnitInsignia
 		texture = "\big_patch_mod\icon\canada13.paa";
 		textureVehicle = "";
 	};
+	
+	class pkmn1
+	{
+		displayName = "02 Psyduck Why";
+		author = "";
+		texture = "\big_patch_mod\icon\pkmn1.paa";
+		textureVehicle = "";
+	};
+	
+	class pkmn2
+	{
+		displayName = "02 Squirtle Cool";
+		author = "";
+		texture = "\big_patch_mod\icon\pkmn2.paa";
+		textureVehicle = "";
+	};
+	
+	class pkmn4
+	{
+		displayName = "02 Takaratomy Wanpachi";
+		author = "";
+		texture = "\big_patch_mod\icon\pkmn4.paa";
+		textureVehicle = "";
+	};
+	
+	class wgw1
+	{
+		displayName = "03 WGW Fox Friend SF";
+		author = "";
+		texture = "\big_patch_mod\icon\wgw1.paa";
+		textureVehicle = "";
+	};
+	
+	class wgw2
+	{
+		displayName = "03 WGW Holo";
+		author = "";
+		texture = "\big_patch_mod\icon\wgw2.paa";
+		textureVehicle = "";
+	};
+	
+	class wgw3
+	{
+		displayName = "03 WGW Xenomorphs";
+		author = "";
+		texture = "\big_patch_mod\icon\wgw3.paa";
+		textureVehicle = "";
+	};
+	
+	class ww2_1
+	{
+		displayName = "03 WW2 10th Mountain Division";
+		author = "";
+		texture = "\big_patch_mod\icon\ww2_1.paa";
+		textureVehicle = "";
+	};
 };
